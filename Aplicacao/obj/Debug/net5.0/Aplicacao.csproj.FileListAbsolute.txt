@@ -1,0 +1,17 @@
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.AssemblyReference.cache
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\obj\Debug\net5.0\Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfoInputs.cache
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\obj\Debug\net5.0\Aplicacao.AssemblyInfo.cs
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\bin\Debug\net5.0\Aplicacao.deps.json
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\bin\Debug\net5.0\Aplicacao.dll
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\bin\Debug\net5.0\ref\Aplicacao.dll
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\bin\Debug\net5.0\Aplicacao.pdb
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\bin\Debug\net5.0\Dominio.dll
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\bin\Debug\net5.0\Infraestrutura.dll
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\bin\Debug\net5.0\Infraestrutura.pdb
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\bin\Debug\net5.0\Dominio.pdb
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\obj\Debug\net5.0\Aplicacao.csproj.CopyComplete
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\obj\Debug\net5.0\Aplicacao.dll
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\obj\Debug\net5.0\ref\Aplicacao.dll
+C:\Users\rbomf\OneDrive\Documentos\OneDrive\Área de Trabalho\TESTE\API_TESTE\Aplicacao\obj\Debug\net5.0\Aplicacao.pdb
